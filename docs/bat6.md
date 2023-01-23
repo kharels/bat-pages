@@ -50,3 +50,5 @@ Just one, but they have to first make the light bulb, then the socket, then come
 - Academies
 - Learning partnerships with industry leaders
 - Lunch and Learns
+
+![Situation future](happy_DevOps.png)
