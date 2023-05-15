@@ -3,7 +3,7 @@
 ## Understand requirement and priorties
 - Ask questions. Only stupid question is the one that isn't asked.
 - spend time upfront determining the effort and business value it provides.
-- Not all asks are important. Assess the importance and value upfront.
+- Not all asks are high priority. Assess the importance and value upfront.
 
 <br>
 <br>
