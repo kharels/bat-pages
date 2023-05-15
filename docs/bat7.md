@@ -39,5 +39,5 @@
 ## Continuous Learning
 - **How did people work before search engine?** (or Stack Overflow, ChatGPT)
 - In tech the only thing constant is change
-- Abundance of resource at our fingertips
+- Abundance of resources at our fingertips
 ![Continuous Learning](https://nexlan.com/wp-content/uploads/2021/02/chalkboard-says-continuous-learning.jpg)
